@@ -12,7 +12,7 @@ Experienced in **component architecture, state management, API integration, and 
 **Development Engineer – Frontend**
 *Avizva Solutions Pvt. Ltd. (Sep 2021 – Jan 2024)*
 
-* Developed and maintained a **healthcare insurance member portal** using React and Redux.
+* Developed and maintained a **healthcare insurance member portal** using React and Redux RTK.
 * Built **interactive dashboards, dynamic profile widgets, and complex form workflows**.
 * Improved user engagement by **~80% through UI improvements and new features**.
 * Optimized performance using **lazy loading, debouncing, and API optimization techniques**.
@@ -27,7 +27,7 @@ Experienced in **component architecture, state management, API integration, and 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge\&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge\&logo=css3)
-![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge\&logo=redux)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge\&logo=tailwindcss)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge\&logo=git)
 
