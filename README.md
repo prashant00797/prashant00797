@@ -67,7 +67,12 @@ AI-powered summarization tool that converts long text into concise summaries, ke
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashant00797&show_icons=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=prashant00797&show_icons=true&theme=radical)
+
+---
+
+## 🔝 Languages
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prashant00797&layout=compact)
 
 ---
 
