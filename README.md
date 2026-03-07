@@ -33,7 +33,7 @@ Experienced in **component architecture, state management, API integration, and 
 
 ---
 
-## 🧠 Featured Projects Personal Project
+## 🧠 Featured Personal Project
 
 ### 🔹 AI Insurance Portal
 
