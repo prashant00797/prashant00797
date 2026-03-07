@@ -67,7 +67,7 @@ AI-powered summarization tool that converts long text into concise summaries, ke
 
 ## 📊 GitHub Stats
 
-![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashant00797\&show_icons=true\&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashant00797&show_icons=true)
 
 ---
 
