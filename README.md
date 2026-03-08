@@ -78,7 +78,7 @@ AI-powered summarization tool that converts long text into concise summaries, ke
 
 ## 🌐 Connect With Me
 
-🔗 Portfolio: https://prashantnath.netlify.app (its currently on revamp process on so till than you can connect with me through linkedIn)
+🔗 Portfolio: https://prashantnathv2.netlify.app/
 🔗 LinkedIn: https://linkedin.com/in/prashant0112
 
 ---
