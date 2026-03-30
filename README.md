@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Prashant Nath
 
-💻 **Frontend Developer | React Specialist**
+💻 **Frontend Developer | UI Engineer**
 
-Frontend developer with **2+ years of professional experience** building scalable, performance-driven web applications using **React and modern JavaScript**.
-Experienced in **component architecture, state management, API integration, and performance optimization**.
+Frontend developer with **2+ years of professional experience** high-performance web applications using **React, Next.js, modern JavaScript and Typescript**.
+Experienced in **component-driven architecture, state management, API integration, and performance optimization**.
 
 ---
 
@@ -25,6 +25,8 @@ Experienced in **component architecture, state management, API integration, and 
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge\&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge\&logo=css3)
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux)
