@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prashant Nath
 
-💻 **Frontend Developer | UI Engineer**
+💻 **Frontend Enigneer 🌐**
 
 Frontend developer with **2+ years of professional experience** high-performance web applications using **React, Next.js, modern JavaScript and Typescript**.
 Experienced in **component-driven architecture, state management, API integration, and performance optimization**.
