@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Prashant Nath
 
-💻 **Frontend Engineer | Building applications with LLMs 🤖**
+**💻 Frontend Engineer | Transitioning into Full-Stack GenAI Systems 🤖**
 
-Software developer with **2+ years of professional experience** high-performance web applications using **React, Next.js, modern JavaScript and Typescript**.
-Experienced in **component-driven architecture, state management, API integration, and performance optimization**.
+Software developer with **2+ years of experience** building high-performance web applications using **React, Next.js, TypeScript**.
 
-Currently exploring and building LLM-powered applications using **LangChain, LangGraph, RAG systems, and ReAct agents** 🤖
+Currently building **AI-powered applications end-to-end** — combining frontend, backend, and LLM-driven systems using **FastAPI, LangGraph, RAG, and agent architectures**.
+
+Focused on **real-world, production-style GenAI systems.**
 
 ---
 
@@ -40,11 +41,12 @@ _Avizva Solutions Pvt. Ltd. (Sep 2021 – Jan 2024)_
 
 ---
 
-### ⚙️ Backend (currently growing)
+### ⚙️ Backend and DB (currently growing)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -57,13 +59,33 @@ _Avizva Solutions Pvt. Ltd. (Sep 2021 – Jan 2024)_
 
 ---
 
-## 🧠 Featured Personal Project
+## 🧠 Featured Projects
 
-### 🔹 AI Insurance Portal
+### 🚀 Full-Stack GenAI
+
+#### 🔹 Portfolio Assistant _(In Progress)_
+
+RAG-powered, agentic chatbot embedded in my portfolio that answers recruiter queries, fetches live GitHub data, and captures leads.
+
+**Highlights**
+
+- LangGraph ReAct agent with multi-tool orchestration
+- RAG pipeline with vector search (Pinecone)
+- Persistent conversation memory (PostgreSQL)
+- FastAPI backend with SSE streaming
+- Real-time chat UI (Next.js)
+
+🚧 _Currently building_
+
+---
+
+### 🎨 Frontend + AI Applications
+
+#### 🔹 AI Insurance Portal
 
 AI-powered insurance assistant that allows users to search policies, providers, and claims using natural language queries powered by **Gemini AI**.
 
-**Key Highlights**
+**Highlights**
 
 - Natural language insurance search
 - Smart provider & claims lookup
@@ -74,11 +96,11 @@ AI-powered insurance assistant that allows users to search policies, providers, 
 
 ---
 
-### 🔹 Insight AI — Text Summarizer
+#### 🔹 Insight AI — Text Summarizer
 
 AI-powered summarization tool that converts long text into concise summaries, key insights, or bullet points using **Gemini AI**.
 
-**Features**
+**Highlights**
 
 - Long text summarization
 - Key insight extraction
@@ -108,4 +130,4 @@ AI-powered summarization tool that converts long text into concise summaries, ke
 
 ---
 
-⭐ _Always learning, building, and exploring modern frontend technologies._
+⭐ _Building at the intersection of frontend, backend, and GenAI._
