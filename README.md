@@ -75,7 +75,7 @@ RAG-powered, agentic chatbot embedded in my portfolio that answers recruiter que
 - FastAPI backend with SSE streaming
 - Real-time chat UI (Next.js)
 
-🚧 _Currently building_
+🚧 _Currently building_ - https://github.com/prashant00797/personal-chat-agent
 
 ---
 
