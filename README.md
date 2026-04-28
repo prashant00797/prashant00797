@@ -71,7 +71,6 @@ RAG-powered, agentic chatbot embedded in my portfolio that answers recruiter que
 
 - LangGraph ReAct agent with multi-tool orchestration
 - RAG pipeline with vector search (Pinecone)
-- Persistent conversation memory (PostgreSQL)
 - FastAPI backend with SSE streaming
 - Real-time chat UI (Next.js)
 
