@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Prashant Nath
 
-**💻 Frontend Engineer | Transitioning into Full-Stack GenAI Systems 🤖**
-
-Software developer with **2+ years of experience** building high-performance web applications using **React, Next.js, TypeScript**.
+**💻 Developer building AI-powered web applications 🤖**
 
 Currently building **AI-powered applications end-to-end** — combining frontend, backend, and LLM-driven systems using **FastAPI, LangGraph, RAG, and agent architectures**.
 
@@ -63,25 +61,29 @@ _Avizva Solutions Pvt. Ltd. (Sep 2021 – Jan 2024)_
 
 ### 🚀 Full-Stack GenAI
 
-#### 🔹 Portfolio Assistant _(In Progress)_
+#### 🔹 Portfolio Assistant
+
+![Live Project](./assets/live-badge-dark.svg)
 
 RAG-powered, agentic chatbot embedded in my portfolio that answers recruiter queries, fetches live GitHub data, and captures leads.
 
 **Highlights**
 
-- LangGraph ReAct agent with multi-tool orchestration
-- RAG pipeline with vector search (Pinecone)
-- Persistent conversation memory (PostgreSQL)
-- FastAPI backend with SSE streaming
-- Real-time chat UI (Next.js)
+- Answers questions about you using a RAG knowledge base (Pinecone)
+- Fetches your live GitHub repositories on demand
+- Captures visitor contact details to Supabase
+- Streams responses token by token via SSE
+- Remembers context within a conversation session
 
-🚧 _Currently building_
+🔗 BE - https://github.com/prashant00797/personal-chat-agent , FE - https://github.com/prashant00797/My-Portfolio-v2
 
 ---
 
 ### 🎨 Frontend + AI Applications
 
 #### 🔹 AI Insurance Portal
+
+![Live Project](./assets/live-badge-dark.svg)
 
 AI-powered insurance assistant that allows users to search policies, providers, and claims using natural language queries powered by **Gemini AI**.
 
@@ -97,6 +99,8 @@ AI-powered insurance assistant that allows users to search policies, providers, 
 ---
 
 #### 🔹 Insight AI — Text Summarizer
+
+![Live Project](./assets/live-badge-dark.svg)
 
 AI-powered summarization tool that converts long text into concise summaries, key insights, or bullet points using **Gemini AI**.
 
