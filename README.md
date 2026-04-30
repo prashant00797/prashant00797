@@ -2,7 +2,7 @@
 
 **💻 Developer building AI-powered web applications 🤖**
 
-Currently building **AI-powered applications end-to-end** — combining frontend, backend, and LLM-driven systems using **FastAPI, LangGraph, RAG, and agent architectures**.
+Currently building **AI-powered applications end-to-end** — combining frontend, backend and LLM-driven systems using **FastAPI, LangGraph, RAG and agent architectures**.
 
 Focused on **real-world, production-style GenAI systems.**
 
@@ -14,11 +14,11 @@ Focused on **real-world, production-style GenAI systems.**
 _Avizva Solutions Pvt. Ltd. (Sep 2021 – Jan 2024)_
 
 - Developed and maintained a **healthcare insurance member portal** using React and Redux RTK.
-- Built **interactive dashboards, dynamic profile widgets, and complex form workflows**.
+- Built **interactive dashboards, dynamic profile widgets and complex form workflows**.
 - Improved user engagement by **~80% through UI improvements and new features**.
-- Optimized performance using **lazy loading, debouncing, and API optimization techniques**.
+- Optimized performance using **lazy loading, debouncing and API optimization techniques**.
 - Developed **reusable UI components** used across multiple modules.
-- Worked with **REST APIs, Git workflows, and AWS S3 deployments**.
+- Worked with **REST APIs, Git workflows and AWS S3 deployments**.
 
 ---
 
@@ -65,7 +65,7 @@ _Avizva Solutions Pvt. Ltd. (Sep 2021 – Jan 2024)_
 
 ![Live Project](./assets/live-badge-dark.svg)
 
-RAG-powered, agentic chatbot embedded in my portfolio that answers recruiter queries, fetches live GitHub data, and captures leads.
+RAG-powered, agentic chatbot embedded in my portfolio that answers recruiter queries, fetches live GitHub data and captures leads.
 
 **Highlights**
 
@@ -85,7 +85,7 @@ RAG-powered, agentic chatbot embedded in my portfolio that answers recruiter que
 
 ![Live Project](./assets/live-badge-dark.svg)
 
-AI-powered insurance assistant that allows users to search policies, providers, and claims using natural language queries powered by **Gemini AI**.
+AI-powered insurance assistant that allows users to search policies, providers and claims using natural language queries powered by **Gemini AI**.
 
 **Highlights**
 
@@ -134,4 +134,4 @@ AI-powered summarization tool that converts long text into concise summaries, ke
 
 ---
 
-⭐ _Building at the intersection of frontend, backend, and GenAI._
+⭐ _Building at the intersection of frontend, backend and GenAI._
