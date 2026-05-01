@@ -10,7 +10,7 @@ Focused on **real-world, production-style GenAI systems.**
 
 ## 💼 Professional Experience
 
-**Development Engineer – Frontend**
+**Development Engineer**
 _Avizva Solutions Pvt. Ltd. (Sep 2021 – Jan 2024)_
 
 - Developed and maintained a **healthcare insurance member portal** using React and Redux RTK.
@@ -65,16 +65,6 @@ _Avizva Solutions Pvt. Ltd. (Sep 2021 – Jan 2024)_
 
 ![Live Project](./assets/live-badge-dark.svg)
 
-RAG-powered, agentic chatbot embedded in my portfolio that answers recruiter queries, fetches live GitHub data and captures leads.
-
-**Highlights**
-
-- Answers questions about you using a RAG knowledge base (Pinecone)
-- Fetches your live GitHub repositories on demand
-- Captures visitor contact details to Supabase
-- Streams responses token by token via SSE
-- Remembers context within a conversation session
-
 🔗 BE - https://github.com/prashant00797/personal-chat-agent , FE - https://github.com/prashant00797/My-Portfolio-v2
 
 ---
@@ -85,15 +75,6 @@ RAG-powered, agentic chatbot embedded in my portfolio that answers recruiter que
 
 ![Live Project](./assets/live-badge-dark.svg)
 
-AI-powered insurance assistant that allows users to search policies, providers and claims using natural language queries powered by **Gemini AI**.
-
-**Highlights**
-
-- Natural language insurance search
-- Smart provider & claims lookup
-- AI-driven responses
-- Clean responsive UI
-
 🔗 https://github.com/prashant00797/ai-insurance-app
 
 ---
@@ -101,15 +82,6 @@ AI-powered insurance assistant that allows users to search policies, providers a
 #### 🔹 Insight AI — Text Summarizer
 
 ![Live Project](./assets/live-badge-dark.svg)
-
-AI-powered summarization tool that converts long text into concise summaries, key insights, or bullet points using **Gemini AI**.
-
-**Highlights**
-
-- Long text summarization
-- Key insight extraction
-- Bullet point generation
-- Clean minimal interface
 
 🔗 https://github.com/prashant00797/ai-summary-app
 
