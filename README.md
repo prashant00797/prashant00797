@@ -2,7 +2,7 @@
 
 **💻 Developer building AI-powered web applications 🤖**
 
-Currently building **AI-powered applications end-to-end** — combining frontend, backend and LLM-driven systems using **FastAPI, LangGraph, RAG and agent architectures**.
+Currently building **AI-powered applications end-to-end** — combining frontend, backend and LLM-driven systems.
 
 Focused on **real-world, production-style GenAI systems.**
 
