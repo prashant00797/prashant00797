@@ -4,6 +4,8 @@
 
 Focused on **real-world**, **production-ready systems** from **frontend** to **backend**.
 
+🚧 **Currently building:** [Crevia — Creator Studio OS](#crevia) — _click to jump to the project_
+
 ---
 
 ## 🚀 Tech Stack
@@ -46,8 +48,8 @@ Focused on **real-world**, **production-ready systems** from **frontend** to **b
 
 ### 🤖 GenAI
 
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 ![RAG Systems](https://img.shields.io/badge/RAG%20Systems-8A2BE2?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -61,9 +63,15 @@ Focused on **real-world**, **production-ready systems** from **frontend** to **b
 
 ## 🧠 Featured Projects
 
-### 🚀 Full-Stack GenAI
+### 🚀 Full-Stack
 
-#### 🔹 Portfolio Assistant
+<a id="crevia"></a>
+
+#### 🔹 Crevia - Creator Studio OS (**MERN** & **Open AI**)
+
+![In Progress](./assets/in-progress-badge-dark.svg)
+
+#### 🔹Viola - Portfolio Assistant (**Next.js**, **Python** & **LangGraph**)
 
 ![Live Project](./assets/live-badge-dark.svg)
 
@@ -73,7 +81,7 @@ Focused on **real-world**, **production-ready systems** from **frontend** to **b
 
 ### 🎨 Frontend + AI Applications
 
-#### 🔹 AI Insurance Portal
+#### 🔹 AI Insurance Portal (**React.js**, **Netlify Serverless Fn** & **Open AI**)
 
 ![Live Project](./assets/live-badge-dark.svg)
 
@@ -81,7 +89,7 @@ Focused on **real-world**, **production-ready systems** from **frontend** to **b
 
 ---
 
-#### 🔹 Insight AI — Text Summarizer
+#### 🔹 Insight AI — Text Summarizer (**React.js**, **Netlify Serverless Fn** & **Open AI**)
 
 ![Live Project](./assets/live-badge-dark.svg)
 

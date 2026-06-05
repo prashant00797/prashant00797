@@ -1,0 +1,23 @@
+<svg width="160" height="34" viewBox="0 0 160 34" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow-amber" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="160" height="34" rx="17" fill="#0d1117"/>
+  <rect width="160" height="34" rx="17" fill="none" stroke="#30363d" stroke-width="1"/>
+
+  <!-- spinner track -->
+  <circle cx="22" cy="17" r="7" fill="none" stroke="#3a2e14" stroke-width="2.4"/>
+
+  <!-- spinning arc -->
+  <circle cx="22" cy="17" r="7" fill="none" stroke="#f59e0b" stroke-width="2.4"
+          stroke-linecap="round" stroke-dasharray="12 32" filter="url(#glow-amber)">
+    <animateTransform attributeName="transform" type="rotate"
+                      from="0 22 17" to="360 22 17" dur="0.9s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="38" y="22" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" font-weight="700" fill="#f59e0b" letter-spacing="1.5">IN PROGRESS</text>
+</svg>
