@@ -61,9 +61,11 @@ Focused on **real-world**, **production-ready systems** from **frontend** to **b
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+---
+
 ## 🧠 Featured Projects
 
-### 🚀 Full-Stack
+### 🚀 _Full-Stack_
 
 <a id="crevia"></a>
 
@@ -79,15 +81,13 @@ Focused on **real-world**, **production-ready systems** from **frontend** to **b
 
 ---
 
-### 🎨 Frontend + AI Applications
+### 🎨 _Frontend + AI Applications_
 
-#### 🔹 AI Insurance Portal (**React.js**, **Netlify Serverless Fn** & **Open AI**)
+#### 🔹 Insure AI - Inurance Healthcare Dashboard (**React.js**, **Netlify Serverless Fn** & **Open AI**)
 
 ![Live Project](./assets/live-badge-dark.svg)
 
 🔗 https://github.com/prashant00797/ai-insurance-app
-
----
 
 #### 🔹 Insight AI — Text Summarizer (**React.js**, **Netlify Serverless Fn** & **Open AI**)
 
