@@ -4,7 +4,7 @@
 
 Focused on **real-world**, **production-ready systems** from **frontend** to **backend**.
 
-🚧 **Currently building:** [Crevia — Creator Studio OS](#crevia) — _click to jump to the project_
+🚧 **Currently building:** [Crevia — Creator Studio OS](#crevia) — _click to view_
 
 ---
 
@@ -63,15 +63,19 @@ Focused on **real-world**, **production-ready systems** from **frontend** to **b
 
 ---
 
-## 🧠 Featured Projects
-
-### 🚀 _Full-Stack_
+## 🧠 Products
 
 <a id="crevia"></a>
 
-#### 🔹 Crevia - Creator Studio OS (**MERN** & **Open AI**)
+#### 🔹 **Crevia - Creator Studio OS**
+
+- Landing Page - https://crevia-landing.netlify.app/
 
 ![In Progress](./assets/in-progress-badge-dark.svg)
+
+## 🎦 Featured Projects
+
+### 🚀 _Full-Stack_
 
 #### 🔹Viola - Portfolio Assistant (**Next.js**, **Python** & **LangGraph**)
 
@@ -108,18 +112,6 @@ _Avizva Solutions Pvt. Ltd. (Sep 2021 – Jan 2024)_
 - Optimized performance using **lazy loading, debouncing and API optimization techniques**.
 - Developed **reusable UI components** used across multiple modules.
 - Worked with **REST APIs, Git workflows and AWS S3 deployments**.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=prashant00797&show_icons=true&theme=radical)
-
----
-
-## 🔝 Languages
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prashant00797&layout=compact)
 
 ---
 
