@@ -106,13 +106,6 @@ Focused on **real-world**, **production-ready systems** from **frontend** to **b
 **Development Engineer**
 _Avizva Solutions Pvt. Ltd. (Sep 2021 – Jan 2024)_
 
-- Developed and maintained a **healthcare insurance member portal** using React and Redux RTK.
-- Built **interactive dashboards, dynamic profile widgets and complex form workflows**.
-- Improved user engagement by **~80% through UI improvements and new features**.
-- Optimized performance using **lazy loading, debouncing and API optimization techniques**.
-- Developed **reusable UI components** used across multiple modules.
-- Worked with **REST APIs, Git workflows and AWS S3 deployments**.
-
 ---
 
 ## 🌐 Connect With Me
