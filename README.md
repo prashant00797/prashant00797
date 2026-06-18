@@ -4,8 +4,6 @@
 
 Focused on **real-world**, **production-ready systems** from **frontend** to **backend**.
 
-🚧 **Currently building:** [Crevia — Creator Studio OS](#crevia) — _click to view_
-
 ---
 
 ## 🚀 Tech Stack
@@ -114,5 +112,3 @@ _Avizva Solutions Pvt. Ltd. (Sep 2021 – Jan 2024)_
 🔗 LinkedIn: https://linkedin.com/in/prashant0112
 
 ---
-
-⭐ _Building at the intersection of frontend, backend and GenAI._
