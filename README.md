@@ -61,16 +61,6 @@ Focused on **real-world**, **production-ready systems** from **frontend** to **b
 
 ---
 
-## 🧠 Products
-
-<a id="crevia"></a>
-
-#### 🔹 **Crevia - Creator Studio OS**
-
-- Landing Page - https://crevia-landing.netlify.app
-
-![In Progress](./assets/in-progress-badge-dark.svg)
-
 ## 🎦 Featured Projects
 
 ### 🚀 _Full-Stack_
